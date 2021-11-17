@@ -1,0 +1,30 @@
+1.The father of intelligence test is : A.binet B.kohler C.pavlov D.thorndike
+2.The three dimensional theory of intelligence was propounded by: A.woodworth B.watson C.McDougallD.guilford
+3.Two factor theory of intelligence was formulated by A.thorndike B.thurstone C.spearman D.Guildford
+4.Intelligence Quotient means A.mental health/chronological age*100 B.chronological age/mental age*100 C.Attaintment age/chronological age*100 D.chronological age/attainment age*100
+5.Intelligence means 'seven primary mental abilities' was said by A.spearman B.thurstone C.guilford D.vernon
+6.A child's chronological age is 10.and mental age is 8.the intelligence quotient is A.40 B.80 C.100 D.180
+7.A childs intelligence quotient is 80 mental age is 8.what is his chronological age? A.72 B.8 C.10 D.80
+8.If a Childs chronological age is 10 and intelligence quotient is 80 what is the childs mental age? A.8 B.70 C.80 D.800
+9.Progressive educational programme is meant for  A.gifted children B.slow learners C.mentally retarded children D.physically handicapped children
+10.Which is the most suitable learning method for gifted children? A.library learning B.laboratory learning C.double promotion learning D.special promotion learning
+11.'Intelligence is the three kinds' was said by  A.E.L.Thorndike B.E.Erickson C.B.F.Skinner D.J.P.Guilford
+12.Intelligence comprises of general factor and specific factor was said by A.charles spearman B.McClelland atkinson C.murry ,morgan D.binet ,simon
+13.Educational quotient is A.chronological age/mental*100 B.attainment level/chronological age*100 C.chronological age/attainment age*100 D.mental age/chronological age*100
+14.Intelligence test was first developed by A.binet,simon B.Mc Chelland,Atkinson C.murray,morgan D.crow,crow
+15.Who said,''the ability to undertake activities that are difficult complex and abstract and which are adaptive to a goal and are done quickly and which have social value and which lead to the creation of something new and difficult A.guilford B.stoddard C.thurstone D.vernon
+16.Who insist that four steps are needed for the formation of creative thinking A.gragarn wallace B.bartlet C.torrance D.ebbinghaus
+17.The first step in creative thinking is A.incubation B.perparation C.verification D.illumination
+18.The second step in creative thinking is A.illumination B.preparation C.verification D.incubation
+19.The third step in creative thinking is A.illumination B.preparation C verification D.incubation
+20.The fourth step in creative thinking is A.verification B.illumination C.incubation D.preparation
+21.The test items found in Binets intelligence test is A.20 B.25 C.30 D.35
+22.Novel and unique ability is called A.intelligence B.creativity C.aptitude D.originality
+23.Minnesota test of creative thinking was developed by A.Baquer Medi B.Guilford C.Torrance D.Stoddard
+24.The first in intelligence testing was held at A.oxford university B.standford university C.cambridge university D.ohayo university
+25.The problem solving method based on creativity is suggested by A.osborn B.torrance C.guilford D.rossraman
+26.The IQ of the gifted child is A.above 100 B.above 120 C.above 110 D.above 130
+27.The IQ of slow learner is A.100-110 B.90-100 C.80-90 D.below 80
+28.The IQ of the mentally retarded child is A.below 100 B.below 90 C.below 80 D.below 70
+29.Who said "intelligence and creativity are different" A.gatzels,jackson B.guilford C.mackinnon D.spearman
+30.The most suitable teaching-learning method for slow learner is A.group-centered teaching B.individual-centered teaching C.subject-centered teaching D.meaninhgful teaching

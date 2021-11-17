@@ -1,0 +1,29 @@
+img{
+width : 10%;
+height : 10%
+}
+
+body{
+background-color:#142F43;
+
+}
+h1{
+color : #FF5F7E;
+font-size : 4.5rem;
+text-align:center;
+font-family: 'Shippori Antique B1', sans-serif;
+}
+h2{
+color: #B000B9;
+font-size : 5rem;
+text-align:center;
+font-family: 'Estonia', cursive;
+}
+p{
+padding-left:20px;
+color : #FFAB4C;
+font-size : 2rem;
+text-align: left;
+font-family: 'Montserrat', sans-serif;
+
+}

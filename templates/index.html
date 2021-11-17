@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TEST</title>
+<link rel="stylesheet"  href="{{ url_for('static', filename='css/styles.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Estonia&family=Montserrat&family=Shippori+Antique+B1&display=swap" rel="stylesheet">
+</head>
+<body>
+<h1>Centum Institute Of TRB</h1>
+<h2>Study with Dr.UK</h2>
+<!--<image src="{{url_for('static',filename = 'images/test.jpeg')}}" >-->
+<form method="post">
+<p>{{question}}</p>
+
+    <button type="submit">Next</button>
+</form>
+</body>
+</html>
