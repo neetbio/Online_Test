@@ -1,7 +1,7 @@
 
 from flask import Flask, render_template, request
 
-questions = None# 7 done
+
 
 with open ("questions.txt", "r") as myfile:
     data = myfile.read().splitlines()
